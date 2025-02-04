@@ -8,6 +8,7 @@ Live: [https://vedantpatel-simform.github.io/calculator-assignment/](https://ved
 - **History Feature**: Stores and displays previous calculations using the `localStorage` API in JavaScript.
 - **Dark Mode**: Implemented dark mode feature .
 - **Modules**: Divided the files into different modules .
+- **Keyboard Events**: Add support for keyboard events .
 
 ## Folder Structure
 - index.html
